@@ -10,7 +10,7 @@
 
 namespace EnriseOAuth1Provider;
 
-require_once __DIR__ . '/src/Enrise/OAuth1/Module.php';
+require_once __DIR__ . '/src/Enrise/OAuth1/Provider/Module.php';
 
 use Enrise\OAuth1\Provider\Module as EnriseOAuth1Provider;
 
